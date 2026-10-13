@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="logo.svg" alt="MoveMarket logo" width="112" />
+
 # MoveMarket
 
 **Every move is a market.**
