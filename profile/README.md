@@ -6,7 +6,7 @@
 
 Live YES/NO prediction pools on chess games, settled by Chainlink CRE on Monad Testnet.
 
-[Live demo](https://movemarket-chess.vercel.app) · [Project README](https://github.com/danustaif/movemarket-source#readme) · [Docs](#docs)
+[Live demo](https://movemarket-chess.vercel.app) · [Demo video](https://youtu.be/nckzruqz8Iw) · [Project README](https://github.com/danustaif/movemarket-source#readme) · [Docs](#docs)
 
 </div>
 
@@ -21,6 +21,7 @@ Built for **Monad Metropolis**, Track 03 (Social, Attention & Culture), for the 
 | | |
 |---|---|
 | App | [movemarket-chess.vercel.app](https://movemarket-chess.vercel.app) (replays start while someone is watching) |
+| Demo video | [youtu.be/nckzruqz8Iw](https://youtu.be/nckzruqz8Iw) (2:50) |
 | Resolver API | `https://api.43-133-151-182.sslip.io` (REST + SSE) |
 | Indexer (Envio HyperIndex) | `https://indexer.43-133-151-182.sslip.io/v1/graphql` |
 | Network | Monad Testnet, chain ID `10143` |
