@@ -27,14 +27,14 @@ Built for **Monad Metropolis**, Track 03 (Social, Attention & Culture), for the 
 
 ## Repositories
 
-Clone all four side by side in one folder: `fe` and `backend` import `../source/shared`.
+This organization holds the three deployable repos. Docs and the shared package live in [danustaif/movemarket-source](https://github.com/danustaif/movemarket-source). Clone all four side by side in one folder: `fe` and `backend` import `../source/shared`.
 
 | Repo | What it holds |
 |---|---|
 | [movemarket-source](https://github.com/danustaif/movemarket-source) | Product and technical docs, the source of truth (`sot/`), the shared TypeScript package (`resolve()`, typed ABI, API and SSE contracts), design, and the demo video project |
-| [movemarket-smart-contract](https://github.com/danustaif/movemarket-smart-contract) | Foundry: `LiveMarket` (parimutuel pools, CRE receiver), `MockUSDC`, `GatedForwarder`, tests with invariants, deploy and verify scripts |
-| [movemarket-backend](https://github.com/danustaif/movemarket-backend) | Resolver service (Bun + Hono), Chainlink CRE workflow `resolver-workflow`, Envio indexer, Docker deploy |
-| [movemarket-fe](https://github.com/danustaif/movemarket-fe) | Vite + React frontend with Mera passkey accounts and viem |
+| [movemarket-smart-contract](https://github.com/move-market/movemarket-smart-contract) | Foundry: `LiveMarket` (parimutuel pools, CRE receiver), `MockUSDC`, `GatedForwarder`, tests with invariants, deploy and verify scripts |
+| [movemarket-backend](https://github.com/move-market/movemarket-backend) | Resolver service (Bun + Hono), Chainlink CRE workflow `resolver-workflow`, Envio indexer, Docker deploy |
+| [movemarket-fe](https://github.com/move-market/movemarket-fe) | Vite + React frontend with Mera passkey accounts and viem |
 
 ## Deployed on Monad Testnet
 
